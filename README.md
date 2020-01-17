@@ -3,6 +3,8 @@
 Besides from using SCSS to create more flexible design in a shorter period of time, there are several SCSS/SASS frameworks or toolkits available out there now.
 In this small demo project, I'm using Susy, Breakpoint and Compass to demonstrate how easy it can be to make a responsive web design with your own flexible css grids, media queries, and everything else.
 
+![SCSS Demo snapshot](snapshot.png)
+
 # Syntactically Awesome Style-Sheets (SASS) vs Sassy CSS (SCSS)?
 
 SCSS builds on top of CSS was built with the purpose in mind to look closer like CSS, so that people won't have to learn new syntax. The CSS syntax is basically a subset of the SCSS syntax.
